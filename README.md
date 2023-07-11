@@ -21,11 +21,11 @@ Each project in this repository is organized into separate folders. Inside each 
 ## Tools and Technologies
 Throughout these projects, I have leveraged various tools and technologies to perform data analysis effectively:
 
-Programming Languages: Python, R. <br>
-Data Analysis Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn. <br>
-Statistical Analysis: Hypothesis testing, Regression analysis, Time series analysis. <br>
-Data Visualization: Tableau, Tidyverse, Matplotlib, Seaborn. <br>
-Machine Learning: Clustering, Classification, Regression. 
+- Programming Languages: Python, R. <br>
+- Data Analysis Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn. <br>
+- Statistical Analysis: Hypothesis testing, Regression analysis, Time series analysis. <br>
+- Data Visualization: Tableau, Tidyverse, Matplotlib, Seaborn. <br>
+- Machine Learning: Clustering, Classification, Regression. 
 
 ## Contact Information
 If you have any questions, feedback, or would like to learn more about my work, please feel free to reach out to me:
