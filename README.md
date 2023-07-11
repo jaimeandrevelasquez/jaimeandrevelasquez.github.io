@@ -30,8 +30,8 @@ Machine Learning: Clustering, Classification, Regression.
 ## Contact Information
 If you have any questions, feedback, or would like to learn more about my work, please feel free to reach out to me:
 
-- Email: [andrevelasquezm8@gmail.com] <br>
-- LinkedIn: [https://www.linkedin.com/in/jaimevelasquezmoscoso/?locale=en_US]
+- Email: andrevelasquezm8@gmail.com <br>
+- LinkedIn: https://www.linkedin.com/in/jaimevelasquezmoscoso/?locale=en_US
 
 I am open to new opportunities and collaborations. I look forward to connecting with you!
 
